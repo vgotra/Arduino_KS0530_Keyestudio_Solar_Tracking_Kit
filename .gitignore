@@ -1,3 +1,11 @@
+# IDE
+**/.idea
+**/.vs/
+**/.vscode/
+
+# Build 
+**/build
+
 # Prerequisites
 *.d
 
